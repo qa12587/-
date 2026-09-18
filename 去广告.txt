@@ -13,5 +13,3 @@ ycoo.net##.comiis_km95
 ycoo.net##.comiis_km36
 ycoo.net###comiis_app_block_488
 
-# UACG 动态渲染广告卡片，监听DOM变化移除
-UACG#%#//scriptlet('remove-class-on-mutation', 'aspect-[4/1]', 'div')
