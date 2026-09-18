@@ -9,4 +9,4 @@ ycoo.net##.comiis_km41
 ycoo.net##.comiis_km95
 ycoo.net##.comiis_km36
 ycoo.net###comiis_app_block_488
-UACG##.md\\:aspect-\\[4\\/1\\].aspect-\\[4\\/3\\].max-w-\\[1200px\\].mx-auto.rounded-xl.overflow-hidden.w-full.relative
+UACG#?#.md\:aspect-\[4\/1\].aspect-\[4\/3\].max-w-\[1200px\].mx-auto.rounded-xl.overflow-hidden.w-full.relative
