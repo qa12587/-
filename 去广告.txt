@@ -13,5 +13,5 @@ ycoo.net##.comiis_km95
 ycoo.net##.comiis_km36
 ycoo.net###comiis_app_block_488
 
-uacg.moe,dxc4rtyvdpyq6.cloudfront.net##[class*="max-w-[1200px]"][class*="overflow-hidden"]
+uacg.moe,dxc4rtyvdpyq6.cloudfront.net##[class*="max-w-[1200px]"]
 
