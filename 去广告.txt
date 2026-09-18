@@ -5,6 +5,18 @@
 ! Homepage: https://127.0.0.1
 ! Last modified: 2026-09-18
 
+源论坛
+ycoo.net##.comiis_km41
+ycoo.net##.comiis_km95
+ycoo.net##.comiis_km36
+ycoo.net##.comiis_bbs_show
+ycoo.net##.z
+ycoo.net##.comiis_km
+ycoo.net###comiis_app_block_488
+ycoo.net##.vm
+ycoo.net##.comiis_forumlist_bkgz
+ycoo.net##.comiis_forumlist_top
+
 UACG
 uacg.moe,dxc4rtyvdpyq6.cloudfront.net##[class*="max-w-[1200px]"][class*="overflow-hidden"]
 
