@@ -16,3 +16,22 @@ ycoo.net###comiis_app_block_488
 UACG
 uacg.moe,dxc4rtyvdpyq6.cloudfront.net##[class*="max-w-[1200px]"][class*="overflow-hidden"]
 
+尚香书苑
+##.micon
+###sub-forum_26
+##.sub-forum_36>ul>li
+##.footer
+###sub-forum_6>ul>li
+##.subforumshow>h2
+##.subforumshow
+##.tabs
+##.swiper-slide-active>ul
+##.swiper-slide-active
+##.swiper-slide-next
+###tabs-box
+##.list_top
+###sub-forum_1 > ul > li:nth-of-type(4)
+###sub-forum_1 > ul > li:nth-of-type(6)
+###sub-forum_1 > ul > li:nth-of-type(5)
+###sub-forum_1 > ul > li:nth-of-type(1)
+##font[color="#0000FF"]>b
