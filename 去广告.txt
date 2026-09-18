@@ -46,10 +46,18 @@ sxsy45.com##font[color="#0000FF"]>b
 ||juicyads.com^
 ||adserver.juicyads.com^
 ||gbekw.shop^
+||ent.gbekw.shop^
 ||holesg.xyz^
+||n.holesg.xyz^
 ||7k6qaqsd.shop^
+||k1cd.7k6qaqsd.shop^
 ||9oudccfz.shop^
+||y7ab.9oudccfz.shop^
 ||tp-lp5.org^
+||a.tp-lp5.org^
+||luluai.site^
+||shenshiai.net^
+||missai.space^
 ##.sh
 ##ins[id]
 ##.dv-notice
@@ -61,6 +69,9 @@ sxsy45.com##font[color="#0000FF"]>b
 ##a[href*="dc=WYFNS"]
 ##a[href*=".shop/?dc="]
 ##a[href*="attributionId="]
+##a[href*="luluai.site"]
+##a[href*="shenshiai.net"]
+##a[href*="missai.space"]
 ##div:has(> a[href*="/link-index-"])
 ##div:has(> a[href*="gbekw.shop"])
 ##div:has(> a[href*="holesg.xyz"])
