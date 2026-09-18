@@ -66,3 +66,6 @@ sxsy45.com##font[color="#0000FF"]>b
 ##div:has(> a[href*="holesg.xyz"])
 ##div:has(> a[href*="attributionId="])
 ##div:has(> a[href*=".shop/?dc="])
+##a[href*="/link-index-"] img
+##a[href*="gbekw.shop"] img
+##a[href*="holesg.xyz"] img
