@@ -61,3 +61,8 @@ sxsy45.com##font[color="#0000FF"]>b
 ##a[href*="dc=WYFNS"]
 ##a[href*=".shop/?dc="]
 ##a[href*="attributionId="]
+##div:has(> a[href*="/link-index-"])
+##div:has(> a[href*="gbekw.shop"])
+##div:has(> a[href*="holesg.xyz"])
+##div:has(> a[href*="attributionId="])
+##div:has(> a[href*=".shop/?dc="])
