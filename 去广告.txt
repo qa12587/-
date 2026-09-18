@@ -9,3 +9,4 @@ ycoo.net##.comiis_km41
 ycoo.net##.comiis_km95
 ycoo.net##.comiis_km36
 ycoo.net###comiis_app_block_488
+dxc4rtyvdpyq6.cloudfront.net##.relative.w-full.overflow-hidden.rounded-xl.mx-auto.max-w-\[1200px\].aspect-\[4\/3\].md\:aspect-\[4\/1\]
