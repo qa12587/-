@@ -1,4 +1,4 @@
-! Title: 论坛自定义去广告源
+Title: 论坛自定义去广告源
 源论坛
 ycoo.net##.bg_e
 ycoo.net##.comiis_forumlist_top
