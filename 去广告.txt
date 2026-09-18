@@ -13,5 +13,5 @@ ycoo.net##.comiis_km95
 ycoo.net##.comiis_km36
 ycoo.net###comiis_app_block_488
 
-# UACG广告卡片【原生标准CSS，订阅可用】
-UACG##[class*="aspect-[4/1]"][class*="aspect-[4/3]"]
+# UACG 动态渲染广告卡片，监听DOM变化移除
+UACG#%#//scriptlet('remove-class-on-mutation', 'aspect-[4/1]', 'div')
