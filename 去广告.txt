@@ -39,3 +39,25 @@ sxsy45.com###sub-forum_1 > ul > li:nth-of-type(6)
 sxsy45.com###sub-forum_1 > ul > li:nth-of-type(5)
 sxsy45.com###sub-forum_1 > ul > li:nth-of-type(1)
 sxsy45.com##font[color="#0000FF"]>b
+
+绅士漫画
+||jads.co^
+||poweredby.jads.co^
+||juicyads.com^
+||adserver.juicyads.com^
+||gbekw.shop^
+||holesg.xyz^
+||7k6qaqsd.shop^
+||9oudccfz.shop^
+||tp-lp5.org^
+##.sh
+##ins[id]
+##.dv-notice
+##div.dv-section:nth-of-type(4)
+##div.dv-section:nth-of-type(8)
+##a[href*="/link-index-"]
+##a[href*="gbekw.shop"]
+##a[href*="holesg.xyz"]
+##a[href*="dc=WYFNS"]
+##a[href*=".shop/?dc="]
+##a[href*="attributionId="]
