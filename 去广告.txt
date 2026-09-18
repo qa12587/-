@@ -1,7 +1,10 @@
 [AdGuard]
 ! Title: 自用广告净化
+! Description: ycoo.net、UACG、shturl.c论坛去广告
+! Expires: 12h
 ! Homepage: https://127.0.0.1
 ! Last modified: 2026-09-18
+
 # 源论坛
 ycoo.net##.bg_e
 ycoo.net##.comiis_forumlist_top
@@ -9,4 +12,6 @@ ycoo.net##.comiis_km41
 ycoo.net##.comiis_km95
 ycoo.net##.comiis_km36
 ycoo.net###comiis_app_block_488
+
+# UACG（#?# 开启扩展CSS，订阅可用）
 UACG#?#.md\:aspect-\[4\/1\].aspect-\[4\/3\].max-w-\[1200px\].mx-auto.rounded-xl.overflow-hidden.w-full.relative
