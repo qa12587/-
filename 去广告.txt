@@ -50,6 +50,11 @@ sxsy45.com##font[color="#0000FF"]>b
 ||7k6qaqsd.shop^
 ||9oudccfz.shop^
 ||tp-lp5.org^
+||t4.wnimg2.cfd/data/t/3537/74/
+||t4.wnimg2.cfd/data/t/3537/99/
+||t4.wnimg2.cfd/data/t/3500/90/
+||t4.wnimg2.cfd/data/t/3725/09/
+||t4.wnimg2.cfd/data/t/3725/52/
 ##.sh
 ##ins[id]
 ##.dv-notice
