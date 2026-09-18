@@ -18,20 +18,20 @@ uacg.moe,dxc4rtyvdpyq6.cloudfront.net##[class*="max-w-[1200px]"][class*="overflo
 
 尚香书苑
 ##.micon
-###sub-forum_26
-##.sub-forum_36>ul>li
-##.footer
-###sub-forum_6>ul>li
-##.subforumshow>h2
-##.subforumshow
-##.tabs
-##.swiper-slide-active>ul
-##.swiper-slide-active
-##.swiper-slide-next
-###tabs-box
-##.list_top
-###sub-forum_1 > ul > li:nth-of-type(4)
-###sub-forum_1 > ul > li:nth-of-type(6)
-###sub-forum_1 > ul > li:nth-of-type(5)
-###sub-forum_1 > ul > li:nth-of-type(1)
-##font[color="#0000FF"]>b
+sxsy45.com###sub-forum_26
+sxsy45.com###sub-forum_36>ul>li
+sxsy45.com##.footer
+sxsy45.com###sub-forum_6>ul>li
+sxsy45.com##.subforumshow>h2
+sxsy45.com##.subforumshow
+sxsy45.com##.tabs
+sxsy45.com##.swiper-slide-active>ul
+sxsy45.com##.swiper-slide-active
+sxsy45.com##.swiper-slide-next
+sxsy45.com###tabs-box
+sxsy45.com##.list_top
+sxsy45.com###sub-forum_1 > ul > li:nth-of-type(4)
+sxsy45.com###sub-forum_1 > ul > li:nth-of-type(6)
+sxsy45.com###sub-forum_1 > ul > li:nth-of-type(5)
+sxsy45.com###sub-forum_1 > ul > li:nth-of-type(1)
+sxsy45.com##font[color="#0000FF"]>b
