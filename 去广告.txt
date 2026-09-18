@@ -6,12 +6,7 @@
 ! Last modified: 2026-09-18
 
 # 源论坛
-ycoo.net##.bg_e
-ycoo.net##.comiis_forumlist_top
-ycoo.net##.comiis_km41
-ycoo.net##.comiis_km95
-ycoo.net##.comiis_km36
-ycoo.net###comiis_app_block_488
+
 
 UACG
 uacg.moe,dxc4rtyvdpyq6.cloudfront.net##[class*="max-w-[1200px]"][class*="overflow-hidden"]
