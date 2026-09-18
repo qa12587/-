@@ -5,9 +5,6 @@
 ! Homepage: https://127.0.0.1
 ! Last modified: 2026-09-18
 
-# 源论坛
-
-
 UACG
 uacg.moe,dxc4rtyvdpyq6.cloudfront.net##[class*="max-w-[1200px]"][class*="overflow-hidden"]
 
