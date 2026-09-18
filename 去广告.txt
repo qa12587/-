@@ -13,5 +13,5 @@ ycoo.net##.comiis_km95
 ycoo.net##.comiis_km36
 ycoo.net###comiis_app_block_488
 
-# UACG（#?# 开启扩展CSS，订阅可用）
-UACG#?#.md\:aspect-\[4\/1\].aspect-\[4\/3\].max-w-\[1200px\].mx-auto.rounded-xl.overflow-hidden.w-full.relative
+# UACG广告卡片【原生标准CSS，订阅可用】
+UACG##[class*="aspect-[4/1]"][class*="aspect-[4/3]"]
