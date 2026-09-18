@@ -2,6 +2,7 @@
 ! Title: 自用广告净化
 ! Homepage: https://127.0.0.1
 ! Last modified: 2026-09-18
+##.md\:aspect-\[4\/1\].aspect-\[4\/3\].max-w-\[1200px\].mx-auto.rounded-xl.overflow-hidden.w-full.relative
 
 # 源论坛
 ycoo.net##.bg_e
