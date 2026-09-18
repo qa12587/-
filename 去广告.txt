@@ -1,7 +1,5 @@
 [AdGuard]
-! Title: 自用广告净化
-! Description: ycoo.net、UACG、shturl.c论坛去广告
-! Expires: 12h
+! Title: 自用广告净化! Expires: 12h
 ! Homepage: https://127.0.0.1
 ! Last modified: 2026-09-18
 
